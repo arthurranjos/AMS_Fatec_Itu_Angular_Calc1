@@ -44,3 +44,12 @@ export class FormComponent { //o componente tem 3 atributos iniciados de zero
   onClickMed(){
     this.result = (this.num1 + this.num) / 2;
   }
+
+
+
+
+
+
+
+
+} 
